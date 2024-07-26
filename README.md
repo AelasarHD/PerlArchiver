@@ -1,8 +1,28 @@
 # PerlArchiver 
 
-Experience better archiving or unarchiving on macOS! Unarchive rar, zip and 7z with ease!
 
-Built fully using Python, open-source and avaiable for everyone!
+
+
+![parch_256x256x32](https://github.com/user-attachments/assets/42badf09-35de-43b9-94c2-fb7affd3d69b)
+
+Experience better archiving or unarchiving on macOS, like never before. 
+
+
+## About
+
+<img width="760" alt="Screenshot 2024-07-26 at 16 56 59" src="https://github.com/user-attachments/assets/68baba3c-99d7-4626-aae9-77a48114ff60">
+
+First free, open-source archivator and dearchivator, like WinRar for Windows, but easier to use in macOS. Built fully on Python.  
+
+Simple to use, supported in many languages, such as:
+Russian, Latvian, Spanish, French, Chinese and Hindi.
+
+
+**Archive Format Support:**
+- .rar
+- .zip
+- .7z
+
 
 
 ## Requirements
